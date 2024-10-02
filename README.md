@@ -24,4 +24,4 @@ Suporte técnico não é fornecido 🙅‍♂️.
 Funcionamento em servidores mais recentes não é garantido 📅❌.
 Com um pacote robusto e scripts testados, essa é uma oferta imperdível para quem busca agilidade no desenvolvimento. Não perca a chance de garantir seus scripts PHP prontos para uso!
 
-Link de compra: https://freelaweb.com.br/servico/produto-digital/mega-pack-100-scripts-php-todos-testados/
+Link de compra: https://bit.ly/3ZMyL1y
