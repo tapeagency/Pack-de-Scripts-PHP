@@ -1,7 +1,7 @@
 
 <figure class="wp-block-image size-full"><img src="https://freelaweb.com.br/wp-content/uploads/2024/10/01.jpg" alt="" class="wp-image-188115"/></figure>
 
-# Pack de scripts
+# Pack de 100 scripts TESTADOS E FUNCIONANDO 
 Scrtips funcionais
 Mega Pack de 100 Scripts PHP à Venda: Testados e Aprovados!
 
